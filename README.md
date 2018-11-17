@@ -1,5 +1,7 @@
 # GPGMail crack
 
+[中文版README](README.zh-CN.md)
+
 ## 1. What is GPGMail
 
 GPGMail is an extension for __Apple Mail__ that provides public key email encryption and signing. GPGMail works under macOS and the actual cryptographic functionality is handled by GNU Privacy Guard.
